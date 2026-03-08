@@ -57,9 +57,18 @@ const Experience = () => {
         title: "Fullstack Go ReactJS: Sistem Project Management",
         subtitle: "WPU Course",
         date: "Maret 2026",
-        desc: "Mempelajari konsep dasar Machine Learning, Supervised & Unsupervised Learning, serta pengembangannya.",
+        desc: "Mempelajari mulai dari dasar bahasa pemograman Go, hingga menggerjakan projek Sistem Project Management",
         image: "/cert1.png",
         link: "https://learn.wpucourse.id/certificate/4DWN0JED",
+        btnText: "Lihat Sertifikat"
+      },
+      {
+        title: "Belajar Dasar AI",
+        subtitle: "Dicoding",
+        date: "Maret 2026",
+        desc: "Mempelajari konsep dasar Artificial Intelligence (AI), Mempelajari konsep dasar tentang data serta pemanfaatannya dalam pengembangan AI, Mengidentifikasi konsep penting dalam Deep Learning beserta mengimplementasikan contoh penerapannya.",
+        image: "/cert2.png",
+        link: "https://www.dicoding.com/certificates/1RXYWO9VKZVM",
         btnText: "Lihat Sertifikat"
       }
     ]
