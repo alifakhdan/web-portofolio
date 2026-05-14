@@ -17,19 +17,19 @@ const Projects = () => {
       demo: "https://trigonometri.vercel.app/"
     },
     {
-      title: "Pariwisata Majalengka",
-      desc: "Project ini sebagai memenuhi nilai tugas pada matakuliah Pemograman Web pada semester 4 Kuliah Informatika Universitas Siliwangi. Website ini berisi tentang keindahan alam yang ada di Majalengka",
-      image: "/wisata.png", 
-      tags: ["React", "Tailwind CSS", "Frontend"],
-      github: "https://github.com/alifakhdan/tugas-web-wisata-majalengka.git",
-      demo: "#"
+      title: "Travel Planner",
+      desc: "Bertindak sebagai arsitek sistem yang bertugas memvalidasi logika buatan AI, mengarahkan pengembangan dan deployment platform perencana perjalanan secara cepat menggunakan perangkat lunak AI-assisted coding dan Large Language Models (LLM).",
+      image: "/travelplanner.png", 
+      tags: ["React native", "Typescript", "JavaScript"],
+      github: "https://github.com/sandrianuriyaz/travelplanner.git",
+      demo: "https://travelplanner-web.vercel.app/login.html"
     },
     {
-      title: "Sistem Self Order Jus Alif",
-      desc: "Program aljabar untuk mengimplementasikan operasi matriks, sistem persamaan linear, dan vektor untuk penyelesaian studi kasus di dunia nyata.",
-      image: "/comingsoon.jpg", 
-      tags: ["Project Meneger", "Frontend Developer", "Java"],
-      github: "#",
+      title: "Sistem POS Jus Alif",
+      desc: "Sistem POS (Point of Sale) untuk bisnis jus yang saya buat menggunakan Laravel sebagai backend dan React untuk frontend. Sistem ini mencakup fitur manajemen produk, pemrosesan transaksi, dan laporan penjualan untuk membantu pemilik bisnis jus dalam mengelola operasional sehari-hari dengan efisien.",
+      image: "/pos.png", 
+      tags: ["Project Meneger", "Typescript", "Laravel", "React", "Tailwind CSS"],
+      github: "https://github.com/KenangaTr/Projek_Self-Order_JusAlip.git",
       demo: "#"
     }
   ];

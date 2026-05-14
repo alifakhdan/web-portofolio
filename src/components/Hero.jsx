@@ -43,7 +43,7 @@ const Hero = () => {
               className="relative z-10 w-full h-full rounded-[2rem] overflow-hidden border border-white/20 shadow-2xl group cursor-pointer"
             >
               <img 
-                src="/formal.jpg" 
+                src="/profile.png" 
                 alt="Foto Profil" 
                 className="w-full h-full object-cover grayscale group-hover:grayscale-0 group-hover:scale-110 transition-all duration-500 ease-in-out"
               />
@@ -68,7 +68,7 @@ const Hero = () => {
           </h1>
           
           <p className="text-slate-400 text-lg md:text-xl w-full mb-10 leading-relaxed">
-            Mahasiswa Informatika yang sangat tertarik dengan Software Engineering. Saya menikmati proses merancang arsitektur sistem dan membangun solusi perangkat lunak menggunakan teknologi seperti Java, Go, dan React.
+            Mahasiswa Informatika yang berdedikasi tinggi dengan minat dan keahlian mendalam di bidang pengembangan web Full-Stack.
           </p>
           
           <div className="flex flex-wrap gap-4">
